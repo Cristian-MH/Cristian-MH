@@ -8,7 +8,7 @@
 - React | Angular | Vue | SQL | NoSQL
 
 📈 GitHub Stats  
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-MHh&show_icons=true&theme=default)
+![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-MH&show_icons=true&theme=default)
 
 📫 How to reach me:  
 [LinkedIn](https://linkedin.com/in/your-link) | [Email](mailto:your@email.com)
