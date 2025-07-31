@@ -17,8 +17,6 @@
 📈 GitHub Stats  
 ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-MH&show_icons=true&theme=default&include_all_commits=true)
 
-[![Cristian's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cristian-MH&theme=default)](https://github.com/Cristian-MH)
-
 📊 **Top Languages**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-MH&layout=compact)
 
