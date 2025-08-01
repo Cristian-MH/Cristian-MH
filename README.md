@@ -20,5 +20,10 @@
 📊 **Top Languages**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-MH&layout=compact)
 
+> 📌 *Note: This chart reflects only public repositories under my personal GitHub account.  
+It does not include contributions to private or organizational repositories.*
+
+🔄 **Previous GitHub username:** [`cristian02`](https://github.com/cristian02)
+
 📫 How to reach me:  
 [LinkedIn](https://www.linkedin.com/in/cristian-mart%C3%ADnez-hern%C3%A1ndez-08043699/) | [Email](mailto:crismh2@hotmail.com)
