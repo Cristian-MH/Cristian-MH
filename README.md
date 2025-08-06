@@ -3,7 +3,7 @@
 👨‍💻 I'm a Software Engineer passionate about building clean, efficient, and impactful code. I love exploring new technologies, solving complex problems, and continuously improving my skills. Whether it’s backend, frontend, or full-stack development, I enjoy turning ideas into reality through programming.
 
 🛠️ **Languages & Tools**  
-- 💻 **Backend:** C# / .NET | Node.js | TypeScript  
+- 💻 **Backend:** C# / .NET |Java | Node.js | TypeScript  
 - 🗄️ **Databases:** SQL Server | Oracle | MySQL | PostgreSQL | MongoDB  
 - ☁️ **Cloud & DevOps:** Firebase | Azure | Docker | Redis | CI/CD  
 - 🌐 **Frontend:** Angular | React | Vue | HTML5 | CSS3 | Tailwind
