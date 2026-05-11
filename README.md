@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Cristian Martínez
 
-👨‍💻 I'm a Software Engineer passionate about building clean, efficient, and impactful code. I love exploring new technologies, solving complex problems, and continuously improving my skills. Whether it’s backend, frontend, or full-stack development, I enjoy turning ideas into reality through programming.
+👨‍💻 I'm a Team Lead and Software Engineer passionate about building clean, efficient, and impactful solutions. I enjoy guiding teams, making technical decisions, and helping transform ideas into reliable software. I’m driven by continuous improvement, problem-solving, and exploring new technologies across backend, frontend, and full-stack development.
 
 🛠️ **Languages & Tools**  
 - 💻 **Backend:** C# / .NET |Java | Node.js | TypeScript  
